@@ -1,0 +1,1 @@
+# did-image-vc-issuer
