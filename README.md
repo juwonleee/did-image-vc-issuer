@@ -1,6 +1,6 @@
 # did-image-vc-issuer
 
-# VC Image Issuer (DID 기반 VC 발급 데모)
+## VC Image Issuer (DID 기반 VC 발급 데모)
 
 이 프로젝트는 사용자가 이미지를 업로드하면, 해당 이미지에 대해 DID 기반 Verifiable Credential(VC)을 생성해주는 전체 흐름을 보여주는 데모입니다.
 
